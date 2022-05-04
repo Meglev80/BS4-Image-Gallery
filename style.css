@@ -1,0 +1,13 @@
+body {
+  background-color: #112b3c;
+}
+.gallery-photo {
+  transition: 0.5s ease-in-out;
+}
+
+.gallery-photo:hover {
+  filter: brightness(70%);
+}
+img {
+  border-radius: 10px;
+}
